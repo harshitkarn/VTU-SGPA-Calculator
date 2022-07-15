@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.VTUSGPACalculator">
         <activity android:name=".SGPAPage" android:parentActivityName=".MainActivity"></activity>
+        <activity android:name=".CGPAPage" android:parentActivityName=".MainActivity"></activity>
         <activity
             android:name=".MainActivity"
             android:exported="true">
